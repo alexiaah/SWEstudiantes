@@ -1,0 +1,14 @@
+C:\Users\k_ale\source\repos\PW20c\PW20c\bin\Debug\PW20c.exe.config
+C:\Users\k_ale\source\repos\PW20c\PW20c\bin\Debug\PW20c.exe
+C:\Users\k_ale\source\repos\PW20c\PW20c\bin\Debug\PW20c.pdb
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.Form1.resources
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.Properties.Resources.resources
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.csproj.GenerateResource.cache
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.csproj.CoreCompileInputs.cache
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.exe
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.pdb
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.MDIParent1.resources
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.Alumnos.resources
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.csprojAssemblyReference.cache
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.Carreras.resources
+C:\Users\k_ale\source\repos\PW20c\PW20c\obj\Debug\PW20c.Materias.resources
